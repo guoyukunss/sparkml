@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc423b1-5db6-4ef6-bc41-92906f7dbe82" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sparkml.iws" />
@@ -750,7 +749,7 @@
       <workItem from="1504268935753" duration="6929000" />
       <workItem from="1522119200720" duration="7545000" />
       <workItem from="1529100155310" duration="1328000" />
-      <workItem from="1529108488277" duration="3804000" />
+      <workItem from="1529108488277" duration="3837000" />
     </task>
     <task id="LOCAL-00001" summary="xiuzheng">
       <created>1529108603734</created>
@@ -770,11 +769,17 @@
       <option name="project" value="LOCAL" />
       <updated>1529112533962</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="oeizhi">
+      <created>1529112679592</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529112679592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20310000" />
+    <option name="totallyTimeSpent" value="20343000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
