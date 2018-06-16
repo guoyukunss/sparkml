@@ -1,5 +1,6 @@
 package com.guoyukun
 
+import com.sun.research.ws.wadl.Application
 import org.apache.spark.ml.classification.RandomForestClassifier
 
 /**
@@ -10,7 +11,7 @@ object App extends Application {
 
   def main(args: Array[String]) {
     val rf = new RandomForestClassifier()
-      .setLabelCol("indexedLabel")sdsafsdf
+      .setLabelCol("indexedLabel")
       .setFeaturesCol("indexedFeatures")
       .setNumTrees(10)
   }
