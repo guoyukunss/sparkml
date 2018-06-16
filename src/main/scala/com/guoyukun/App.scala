@@ -11,7 +11,7 @@ object App extends Application {
 
   def main(args: Array[String]) {
     val rf = new RandomForestClassifier()
-      .setLabelCol("indexedLabel")jhvkjhbk
+      .setLabelCol("indexedLabel")jhvkjhbkewqer
       .setFeaturesCol("indexedFeatures")
       .setNumTrees(10)
   }
